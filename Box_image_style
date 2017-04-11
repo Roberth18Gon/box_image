@@ -1,0 +1,31 @@
+.main{
+	padding-top: 40px;
+}
+.contenedor_imagen{
+	padding-bottom: 40px;
+}
+div.imagen_box{
+	height: 450px;
+	text-align: center;
+	background-color: #333;
+}
+
+.imagen_box h2, p{
+	color: #fff;
+	padding: 10px;
+}
+
+.imagen_box img{
+	width: 100%;
+}
+
+.imagen_box a{
+	display: block;
+	padding: 10px 30px;
+	color: white;
+	background-color: red;
+	text-decoration: none;
+	font-size: 12px;
+	font-family: arial;
+	font-weight: bold;
+}
